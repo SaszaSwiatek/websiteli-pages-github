@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1180" role="img" aria-labelledby="title desc">
+  <title id="title">IO Foundation visual</title>
+  <desc id="desc">Swiss-inspired mountain, lake, cross and oncology network composition.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dcefe8"/>
+      <stop offset="1" stop-color="#f7f8f5"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" x2="1">
+      <stop offset="0" stop-color="#142322" stop-opacity=".72"/>
+      <stop offset=".55" stop-color="#174c4f" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#174c4f" stop-opacity=".02"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1180" fill="url(#bg)"/>
+  <g opacity=".28" stroke="#142322" stroke-width="1">
+    <path d="M0 96h1800M0 192h1800M0 288h1800M0 384h1800M0 480h1800M0 576h1800M0 672h1800M0 768h1800M0 864h1800M0 960h1800"/>
+    <path d="M96 0v1180M192 0v1180M288 0v1180M384 0v1180M480 0v1180M576 0v1180M672 0v1180M768 0v1180M864 0v1180M960 0v1180M1056 0v1180M1152 0v1180M1248 0v1180M1344 0v1180M1440 0v1180M1536 0v1180M1632 0v1180M1728 0v1180"/>
+  </g>
+  <path d="M-60 520 130 402 330 543 520 355 760 555 980 414 1240 568 1460 390 1860 570v610H-60z" fill="#174c4f" opacity=".22"/>
+  <path d="M-60 520 130 402 330 543 520 355 760 555 980 414 1240 568 1460 390 1860 570" fill="none" stroke="#174c4f" stroke-width="5" opacity=".7"/>
+  <path d="M-80 690c140 46 250 8 392 20 150 13 186-42 323-58 158-19 255 56 420 68 126 9 170-35 300-39 166-5 210 62 373 7 76-26 128-4 172 10v482H-80z" fill="#2e7c8a" opacity=".35"/>
+  <path d="M-80 690c140 46 250 8 392 20 150 13 186-42 323-58 158-19 255 56 420 68 126 9 170-35 300-39 166-5 210 62 373 7 76-26 128-4 172 10" fill="none" stroke="#2e7c8a" stroke-width="7" opacity=".72"/>
+  <rect x="162" y="240" width="325" height="325" rx="18" fill="#b95754" opacity=".82"/>
+  <rect x="279" y="301" width="91" height="202" fill="#f7f8f5" opacity=".86"/>
+  <rect x="224" y="356" width="202" height="91" fill="#f7f8f5" opacity=".86"/>
+  <g fill="none" stroke="#b95754" stroke-width="5" opacity=".62">
+    <path d="M1117 378 1297 496 1045 637 1405 684 1224 827 1512 424"/>
+    <path d="M1117 378 1045 637M1297 496 1512 424"/>
+  </g>
+  <g>
+    <circle cx="1117" cy="378" r="27" fill="#fff" opacity=".9" stroke="#b95754" stroke-width="4"/>
+    <circle cx="1297" cy="496" r="22" fill="#fff" opacity=".9" stroke="#b95754" stroke-width="4"/>
+    <circle cx="1045" cy="637" r="27" fill="#fff" opacity=".9" stroke="#b95754" stroke-width="4"/>
+    <circle cx="1405" cy="684" r="22" fill="#fff" opacity=".9" stroke="#b95754" stroke-width="4"/>
+    <circle cx="1224" cy="827" r="27" fill="#fff" opacity=".9" stroke="#b95754" stroke-width="4"/>
+    <circle cx="1512" cy="424" r="22" fill="#fff" opacity=".9" stroke="#b95754" stroke-width="4"/>
+    <g fill="#174c4f">
+      <circle cx="1117" cy="378" r="6"/><circle cx="1297" cy="496" r="6"/><circle cx="1045" cy="637" r="6"/>
+      <circle cx="1405" cy="684" r="6"/><circle cx="1224" cy="827" r="6"/><circle cx="1512" cy="424" r="6"/>
+    </g>
+  </g>
+  <rect width="1800" height="1180" fill="url(#shade)"/>
+</svg>
