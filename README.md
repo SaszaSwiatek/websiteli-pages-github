@@ -1,7 +1,3 @@
-# Alpi Gastro website
-
-This repository contains the Alpi Gastro website.
-
 ## GitHub Pages version
 
 The static GitHub Pages-ready site is in `docs/`.
