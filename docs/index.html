@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="de-CH">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Websiteli Pages | Statische Firmenprofile</title>
+    <meta name="description" content="Katalog statischer Firmenprofile für Websiteli Pages.">
+    <style>
+      :root {
+        --ink: #121716;
+        --muted: #51605d;
+        --paper: #f6f2ea;
+        --white: #ffffff;
+        --sage: #607668;
+        --copper: #a55f38;
+        --line: rgba(18, 23, 22, 0.14);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+        letter-spacing: 0;
+      }
+
+      main {
+        width: min(980px, calc(100% - 2rem));
+        margin: 0 auto;
+        padding: 4rem 0;
+      }
+
+      h1 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 3.5rem;
+        font-weight: 500;
+        line-height: 1.05;
+      }
+
+      p {
+        color: var(--muted);
+        font-size: 1.05rem;
+        line-height: 1.7;
+      }
+
+      .catalog {
+        display: grid;
+        gap: 0.75rem;
+        margin-top: 2rem;
+      }
+
+      .catalog a {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 1rem;
+        align-items: center;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--white);
+        padding: 1rem;
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .catalog a:focus-visible {
+        outline: 3px solid var(--copper);
+        outline-offset: 3px;
+      }
+
+      .catalog strong {
+        font-size: 1.05rem;
+      }
+
+      .catalog span {
+        color: var(--sage);
+        font-size: 0.84rem;
+        font-weight: 800;
+      }
+
+      @media (max-width: 560px) {
+        h1 {
+          font-size: 2.35rem;
+        }
+
+        .catalog a {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Statische Firmenprofile</h1>
+      <p>Ein Verzeichnis der veröffentlichten Websiteli Pages.</p>
+
+      <nav class="catalog" aria-label="Firmenprofile">
+        <a href="CHE137391936/">
+          <strong>Alpi Gastro</strong>
+          <span>CHE137391936</span>
+        </a>
+        <a href="CHE174163641/">
+          <strong>IO Foundation</strong>
+          <span>CHE174163641</span>
+        </a>
+        <a href="CHE295586999/">
+          <strong>De Oliveira Schoch Leonardo</strong>
+          <span>CHE295586999</span>
+        </a>
+        <a href="CHE363967429/">
+          <strong>Ops SPV AG</strong>
+          <span>CHE363967429</span>
+        </a>
+        <a href="CHE383397067/">
+          <strong>Schulbrecht Group AG</strong>
+          <span>CHE383397067</span>
+        </a>
+        <a href="CHE483115223/">
+          <strong>Praxis Mustafa Çiçek</strong>
+          <span>CHE483115223</span>
+        </a>
+      </nav>
+    </main>
+  </body>
+</html>

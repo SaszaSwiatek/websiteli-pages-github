@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ops SPV AG">
+  <rect width="64" height="64" rx="10" fill="#263b32"/>
+  <path d="M14 46V18h8.5c8 0 13.5 5.7 13.5 14s-5.5 14-13.5 14H14Zm7-6h1.2c4.3 0 6.7-3.1 6.7-8s-2.4-8-6.7-8H21v16Z" fill="#f6f2ea"/>
+  <path d="M40 46V18h10v6h-3v16h3v6H40Z" fill="#c89162"/>
+</svg>
