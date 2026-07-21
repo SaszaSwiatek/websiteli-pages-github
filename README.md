@@ -4,12 +4,11 @@ This repository contains static, GitHub Pages-ready company demo websites.
 Everything that is published lives in `docs/`.
 
 
-GitHub will publish `docs/index.html` as the catalog page.
+
 
 
 
 Each `CHE...` directory is one independent static website. The root
-`docs/index.html` file is a public catalog that links to each generated page.
 
 There is no application build step in this repository. Do not assume a React,
 Vite, Next, or server-side app unless those files are added later.
@@ -145,7 +144,6 @@ local assets resolve with the correct relative paths.
 
 ## Final Checklist Before Committing
 
-- `docs/index.html` contains the new catalog link.
 - The new page opens from the catalog.
 - All image, CSS, JavaScript, favicon, canonical, Open Graph, and language links
   resolve correctly.
