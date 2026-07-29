@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MANOLE PathTech">
+  <rect width="64" height="64" rx="14" fill="#092238"/>
+  <path d="M17 42V21h7.5l7.5 12 7.5-12H47v21h-6V31.5l-7.4 11.7h-3.2L23 31.5V42z" fill="#b6f1e5"/>
+  <circle cx="49" cy="17" r="4" fill="#f58a72"/>
+</svg>

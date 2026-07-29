@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="MANOLE PathTech">
+  <rect width="1200" height="630" fill="#092238"/>
+  <circle cx="954" cy="128" r="194" fill="#f58a72"/><circle cx="1028" cy="463" r="267" fill="#b6f1e5" opacity=".19"/>
+  <path d="m626 474 136-145 120 65 157-191" fill="none" stroke="#b6f1e5" stroke-linecap="round" stroke-width="5" opacity=".7"/>
+  <g fill="#b6f1e5"><circle cx="626" cy="474" r="17"/><circle cx="762" cy="329" r="17"/><circle cx="882" cy="394" r="17"/></g>
+  <text x="98" y="206" fill="#b6f1e5" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="8">MANOLE PATH•TECH</text>
+  <text x="94" y="330" fill="#fff" font-family="Georgia, serif" font-size="78">Medical devices,</text>
+  <text x="94" y="414" fill="#fff" font-family="Georgia, serif" font-size="78">thought through.</text>
+  <text x="98" y="505" fill="#b6f1e5" font-family="Arial, sans-serif" font-size="25">Research · Development · Design · Manufacturing · Distribution</text>
+</svg>
