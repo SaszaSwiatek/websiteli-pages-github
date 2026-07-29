@@ -189,6 +189,11 @@ h3 { font-size: 1.1rem; margin-bottom: 0.65rem; }
   }
 
   .hero-art img { object-fit: contain; }
+
+  .hero-copy {
+    padding-bottom: 7.25rem;
+    padding-top: 7.25rem;
+  }
 }
 
 .statement {
