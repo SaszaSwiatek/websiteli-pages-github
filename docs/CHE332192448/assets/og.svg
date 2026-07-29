@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#18352f"/>
+  <circle cx="950" cy="174" r="106" fill="#c99b50"/>
+  <rect x="672" y="104" width="310" height="376" fill="none" stroke="#fffefa" stroke-width="4"/>
+  <rect x="821" y="243" width="275" height="232" fill="none" stroke="#df795c" stroke-width="4"/>
+  <path d="M607 478 1190 280" stroke="#fffefa" stroke-width="4"/>
+  <text x="83" y="147" fill="#c99b50" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="6">ZÜRICH · IMMOBILIEN</text>
+  <text x="79" y="298" fill="#fffefa" font-family="Georgia, serif" font-size="89">BA Estates AG</text>
+  <text x="83" y="375" fill="#df795c" font-family="Georgia, serif" font-size="55" font-style="italic">Immobilien handeln.</text>
+  <text x="83" y="436" fill="#df795c" font-family="Georgia, serif" font-size="55" font-style="italic">Werte verwalten.</text>
+</svg>
