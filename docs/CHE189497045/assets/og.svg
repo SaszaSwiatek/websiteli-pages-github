@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#103b37"/>
+  <circle cx="1020" cy="120" r="280" fill="#14514a"/>
+  <circle cx="1040" cy="570" r="235" fill="#f4c95d"/>
+  <path d="M118 168h238v52H265v248h-57V220H118z" fill="#f4c95d"/>
+  <text x="118" y="536" fill="#fffaf0" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700">11seven GmbH</text>
+  <text x="122" y="586" fill="#d7e6dc" font-family="Arial, Helvetica, sans-serif" font-size="28">Getränke · Lebensmittel · Konsumgüter</text>
+</svg>
