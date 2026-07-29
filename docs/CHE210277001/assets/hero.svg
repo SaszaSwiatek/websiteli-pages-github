@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 900" role="img" aria-labelledby="title desc">
+  <title id="title">Abstrakte Komposition aus Kompass, Uhr und Handelslinien</title>
+  <desc id="desc">Eine eigens gestaltete grafische Komposition in Grün, Gold und Creme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="30" x2="680" y2="850" gradientUnits="userSpaceOnUse"><stop stop-color="#193a31"/><stop offset="1" stop-color="#0d201b"/></linearGradient>
+    <linearGradient id="gold" x1="190" y1="150" x2="570" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#f4e5b1"/><stop offset=".55" stop-color="#c69c51"/><stop offset="1" stop-color="#fff2c9"/></linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#07110f" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="760" height="900" rx="44" fill="url(#bg)"/>
+  <path d="M-40 674C144 565 182 807 361 706c141-80 208-205 449-104" fill="none" stroke="#31564a" stroke-width="2"/>
+  <path d="M-20 729C171 620 206 847 400 738c138-78 214-196 388-149" fill="none" stroke="#4e7467" stroke-width="2"/>
+  <g opacity=".74" stroke="#e9d59a" stroke-width="2"><path d="M85 129h112M141 73v112"/><path d="M572 743h92M618 697v92"/><path d="M573 144h49M598 119v49"/></g>
+  <g transform="translate(380 450)" filter="url(#shadow)">
+    <circle r="246" fill="#1d463b" stroke="#e9d59a" stroke-width="2"/><circle r="205" fill="none" stroke="#6e8d81" stroke-width="1.5"/><circle r="169" fill="none" stroke="#385e52" stroke-width="2"/><circle r="126" fill="#15352c" stroke="#c69c51" stroke-width="2"/>
+    <path d="M0-219v26M0 193v26M-219 0h26M193 0h26M-154-154l18 18M136 136l18 18M154-154l-18 18M-136 136l-18 18" stroke="#e9d59a" stroke-linecap="round" stroke-width="5"/>
+    <path d="M-38 84L-2-162 58 71 0 151z" fill="url(#gold)"/><path d="M-2-162L0 151l-58-67z" fill="#f6eed1"/><circle r="13" fill="#16352d" stroke="#f5e9bd" stroke-width="4"/>
+  </g>
+  <g fill="#e9d59a"><circle cx="108" cy="571" r="8"/><circle cx="153" cy="571" r="4" opacity=".7"/><circle cx="642" cy="320" r="7"/></g>
+  <text x="76" y="817" fill="#e9d59a" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">HNB</text><text x="76" y="851" fill="#f5f1e4" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.5">CONSULTING &amp; TRADING</text>
+</svg>
