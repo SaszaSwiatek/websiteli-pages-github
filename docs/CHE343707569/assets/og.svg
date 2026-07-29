@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d2c3a"/>
+  <path d="M-10 516C178 486 199 345 371 335c146-9 176 83 329 21 132-53 165-214 511-215" fill="none" stroke="#f2c66d" stroke-width="5" stroke-dasharray="12 18"/>
+  <path d="M86 484 362 335 579 415 790 319 1006 126" fill="none" stroke="#f2c66d" stroke-width="7"/>
+  <g fill="#f7f2e8"><circle cx="86" cy="484" r="22"/><circle cx="362" cy="335" r="19"/><circle cx="579" cy="415" r="19"/><circle cx="790" cy="319" r="29"/><circle cx="1006" cy="126" r="22"/></g>
+  <text x="75" y="105" fill="#f2c66d" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="8">DCT / ZÜRICH</text>
+  <text x="75" y="206" fill="#f7f2e8" font-family="Georgia, serif" font-size="66">Deniz Çelik</text>
+  <text x="75" y="282" fill="#f7f2e8" font-family="Georgia, serif" font-size="66">Consulting &amp; Trading</text>
+  <text x="76" y="566" fill="#f7f2e8" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="3">BUSINESS DEVELOPMENT · TRADE · SALES &amp; MARKETING</text>
+</svg>
