@@ -326,7 +326,7 @@ h3 {
 .approach {
   position: relative;
   isolation: isolate;
-  overflow: clip;
+  overflow-x: hidden;
   color: var(--white);
   background: var(--night);
 }
