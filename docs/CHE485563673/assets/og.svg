@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Coiln Sperling</title>
+  <desc id="desc">Event und Produktion</desc>
+  <rect width="1200" height="630" fill="#0c1d2a"/>
+  <g fill="none" stroke="#7bd8d1" stroke-width="3" opacity=".75">
+    <path d="M760 100c120 0 188 70 188 170s-68 170-188 170-188-70-188-170 68-170 188-170Z"/>
+    <path d="M872 50c120 0 228 97 228 220S992 490 872 490 644 393 644 270 752 50 872 50Z" opacity=".45"/>
+    <path d="M640 515H1110" opacity=".45"/>
+  </g>
+  <circle cx="978" cy="123" r="17" fill="#136f8b"/>
+  <circle cx="694" cy="445" r="10" fill="#fff"/>
+  <text x="88" y="250" fill="#fff" font-family="Georgia, serif" font-size="94" letter-spacing="-4">Coiln Sperling</text>
+  <text x="94" y="326" fill="#7bd8d1" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="7">EVENT &amp; PRODUKTION</text>
+</svg>
