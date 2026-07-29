@@ -248,7 +248,7 @@ h1 {
   position: absolute;
   z-index: -1;
   top: 10%;
-  right: -9%;
+  right: 0;
   width: 68%;
   aspect-ratio: 1;
   border-radius: 50%;
@@ -326,6 +326,7 @@ h3 {
 .approach {
   position: relative;
   isolation: isolate;
+  overflow: clip;
   color: var(--white);
   background: var(--night);
 }
