@@ -129,12 +129,13 @@ h1, h2 {
   letter-spacing: -0.055em;
 }
 .hero h1 {
-  font-size: clamp(3.35rem, 7.7vw, 7.7rem);
-  line-height: 0.9;
+  font-size: clamp(2.4rem, 4vw, 4rem);
+  line-height: 0.95;
   margin: 0 0 1.6rem;
-  max-width: 9.1ch;
-  overflow-wrap: break-word;
+  max-width: 12ch;
+  overflow-wrap: normal;
 }
+.hero-title-word { display: block; white-space: nowrap; }
 .lede, .body-copy, .service-card p, .contact-panel p, .legal-content p, .legal-content dd {
   font-size: clamp(1rem, 1.45vw, 1.14rem);
   line-height: 1.7;
