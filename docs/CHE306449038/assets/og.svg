@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f1e8"/><rect x="64" y="64" width="1072" height="502" rx="32" fill="#132b2b"/>
+  <path d="M786 416V236l132-76 132 76v180H786Zm132-256v256M786 236h264" fill="none" stroke="#dbe9e3" stroke-width="7"/>
+  <path d="m786 236 132-76 132 76-45 26-87-51-87 51Z" fill="#f2a65a"/>
+  <text x="128" y="224" fill="#f2a65a" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6">SMBV INVEST AG</text>
+  <text x="128" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="56" font-weight="700">Projekte führen.</text>
+  <text x="128" y="378" fill="#fff" font-family="Arial, sans-serif" font-size="56" font-weight="700">Werte entwickeln.</text>
+  <text x="128" y="456" fill="#c8ddd5" font-family="Arial, sans-serif" font-size="24">Baumanagement · Projektleitung · Immobilien</text>
+</svg>

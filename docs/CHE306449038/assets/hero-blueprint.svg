@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Architectural project blueprint</title>
+  <desc id="desc">Abstract construction drawing with structural lines, measurement marks and warm geometric volumes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183b3a"/><stop offset="1" stop-color="#0b2425"/></linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5bd75"/><stop offset="1" stop-color="#d8753c"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c8ddd5" stroke-opacity=".1"/></pattern>
+  </defs>
+  <rect width="960" height="720" rx="40" fill="url(#bg)"/><rect width="960" height="720" rx="40" fill="url(#grid)"/>
+  <g fill="none" stroke="#dbe9e3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 536V306l218-126 218 126v230H154Z" stroke-width="8"/>
+    <path d="M372 180v356M154 306h436M246 536V365h101v171M423 365h98v92h-98z" stroke-width="5"/>
+    <path d="M695 160v414M665 181h60M665 552h60M682 196l13-13 13 13M682 537l13 13 13-13" stroke-opacity=".6" stroke-width="3"/>
+    <path d="M124 603h496M145 587l-19 16 19 16M600 587l19 16-19 16" stroke-opacity=".6" stroke-width="3"/>
+    <path d="M745 254h116v208H745zM775 254v208M831 254v208M745 320h116M745 396h116" stroke-opacity=".45" stroke-width="3"/>
+  </g>
+  <g fill="url(#copper)"><path d="M372 180 590 306l-73 42-145-84-145 84-73-42Z"/><circle cx="695" cy="160" r="13"/><circle cx="619" cy="603" r="13"/><path d="M754 484h108l-30 74h-108z" opacity=".85"/></g>
+  <g fill="#dbe9e3" font-family="Arial, sans-serif"><text x="716" y="125" font-size="20" letter-spacing="4">72.0</text><text x="335" y="642" font-size="20" letter-spacing="4">46.5</text><text x="742" y="612" font-size="16" letter-spacing="3" opacity=".7">SMBV / 01</text></g>
+</svg>
