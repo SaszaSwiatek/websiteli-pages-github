@@ -89,7 +89,7 @@ h2 { max-width: 13ch; margin-bottom: 0; font-size: clamp(2.65rem, 5vw, 5.4rem); 
 .perspective-copy h2 { margin-bottom: 1.8rem; }
 .perspective-copy > p:not(.section-label) { max-width: 57ch; color: var(--muted); font-size: 1.07rem; }
 
-.contact { background: var(--paper); }
+.contact { overflow: hidden; background: var(--paper); }
 .contact-panel { position: relative; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(270px, .7fr); align-items: end; gap: 2.5rem 6rem; padding-block: clamp(3.5rem, 7vw, 6rem); background: var(--navy-soft); color: var(--white); box-shadow: 0 30px 70px rgba(11,24,48,.16); }
 .contact-panel::before, .contact-panel::after { position: absolute; top: 0; bottom: 0; width: max(0px, calc((100vw - min(100vw, 1480px)) / 2)); background: var(--navy-soft); content: ""; }
 .contact-panel::before { right: 100%; }
