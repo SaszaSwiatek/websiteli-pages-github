@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#102b2a"/>
+  <circle cx="1040" cy="100" r="260" fill="none" stroke="#d9b76d" stroke-opacity=".25" stroke-width="3"/>
+  <path d="M760 530 890 350 985 425 1110 245 1200 320v210Z" fill="#ece8dc" opacity=".9"/>
+  <path d="M760 530 890 350 985 425 1110 245 1200 320" fill="none" stroke="#d9b76d" stroke-width="5"/>
+  <text x="88" y="180" fill="#d9b76d" font-family="Arial, sans-serif" font-size="30" letter-spacing="7">PRO THEMELIO 1</text>
+  <text x="88" y="285" fill="#f5f1e7" font-family="Georgia, serif" font-size="66">Zugang zu Schweizer</text>
+  <text x="88" y="365" fill="#f5f1e7" font-family="Georgia, serif" font-size="66">Immobilien neu denken.</text>
+  <text x="88" y="455" fill="#bfcac6" font-family="Arial, sans-serif" font-size="26">Finanzprodukte verbinden. Möglichkeiten erweitern.</text>
+</svg>

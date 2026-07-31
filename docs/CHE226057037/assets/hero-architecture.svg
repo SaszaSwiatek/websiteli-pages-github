@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstrakte Schweizer Immobilienlandschaft</title>
+  <desc id="desc">Geometrische Gebäudeflächen, die durch goldene Linien miteinander verbunden sind.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173f3b"/><stop offset="1" stop-color="#0b2525"/></linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ece8dc"/><stop offset="1" stop-color="#b9b5a9"/></linearGradient>
+  </defs>
+  <rect width="900" height="720" rx="28" fill="url(#bg)"/>
+  <circle cx="720" cy="145" r="170" fill="none" stroke="#d9b76d" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="720" cy="145" r="112" fill="none" stroke="#d9b76d" stroke-opacity=".32"/>
+  <g fill="none" stroke="#d9b76d" stroke-width="2">
+    <path d="M82 584 290 390 440 486 650 244 821 365"/>
+    <path d="M290 390v194M440 486v98M650 244v340M821 365v219" stroke-opacity=".45"/>
+  </g>
+  <g fill="url(#stone)">
+    <path d="M82 584 290 390v194H82Z"/>
+    <path d="M308 584V355l132 131v98Z" opacity=".9"/>
+    <path d="M458 584V460l192-216v340Z" opacity=".82"/>
+    <path d="M668 584V314l153 51v219Z" opacity=".72"/>
+  </g>
+  <g fill="#102b2a" opacity=".7">
+    <rect x="125" y="524" width="28" height="60"/><rect x="174" y="493" width="28" height="91"/><rect x="223" y="457" width="28" height="127"/>
+    <rect x="343" y="445" width="25" height="38"/><rect x="381" y="485" width="25" height="99"/>
+    <rect x="510" y="470" width="32" height="114"/><rect x="566" y="404" width="32" height="180"/>
+    <rect x="705" y="412" width="30" height="45"/><rect x="752" y="429" width="30" height="155"/>
+  </g>
+  <path d="M72 620h756" stroke="#d9b76d" stroke-width="3"/>
+  <g fill="#d9b76d"><circle cx="290" cy="390" r="8"/><circle cx="440" cy="486" r="8"/><circle cx="650" cy="244" r="8"/><circle cx="821" cy="365" r="8"/></g>
+</svg>
