@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract fashion and brand studio composition</title>
+  <desc id="desc">Layered textile forms, packaging shapes and a storefront window arranged as a colorful editorial collage.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#171712" stroke-opacity=".16"/></pattern>
+    <linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7ff49"/><stop offset="1" stop-color="#8de744"/></linearGradient>
+  </defs>
+  <path d="M110 34h536a58 58 0 0 1 58 58v466a58 58 0 0 1-58 58H110a58 58 0 0 1-58-58V92a58 58 0 0 1 58-58Z" fill="#fffaf0" stroke="#171712" stroke-width="4"/>
+  <path d="M110 34h536a58 58 0 0 1 58 58v466a58 58 0 0 1-58 58H110a58 58 0 0 1-58-58V92a58 58 0 0 1 58-58Z" fill="url(#grid)"/>
+  <path d="M72 492c92-72 170-81 246-22s167 70 370-3v91a58 58 0 0 1-58 58H110a58 58 0 0 1-58-58Z" fill="#3968ff" stroke="#171712" stroke-width="4"/>
+  <path d="M171 183c28-46 86-66 132-46l38 17 43-11 55 37-31 91-51-19-7 187H173l-7-187-51 19-31-91 55-37 43 11Z" fill="url(#cloth)" stroke="#171712" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M217 148c11 34 78 34 89 0" fill="none" stroke="#171712" stroke-width="5"/>
+  <circle cx="267" cy="315" r="44" fill="#ff6b51" stroke="#171712" stroke-width="5"/>
+  <path d="m240 315 18 18 37-46" fill="none" stroke="#171712" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(441 126) rotate(5 103 161)">
+    <rect width="206" height="322" rx="12" fill="#171712"/>
+    <rect x="12" y="12" width="182" height="298" rx="5" fill="#f3efe5"/>
+    <path d="M12 230h182v80H12z" fill="#ff6b51"/>
+    <circle cx="103" cy="108" r="56" fill="#3968ff"/>
+    <path d="M48 197h110M48 215h74" stroke="#171712" stroke-width="9" stroke-linecap="round"/>
+    <text x="103" y="116" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="26" fill="white">ARK</text>
+  </g>
+  <path d="M408 478h185l30 72H378Z" fill="#d7ff49" stroke="#171712" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M465 478v-52h82v52" fill="none" stroke="#171712" stroke-width="5"/>
+  <path d="M101 95h85M101 115h54" stroke="#171712" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="638" cy="95" r="17" fill="#ff6b51" stroke="#171712" stroke-width="4"/>
+</svg>
