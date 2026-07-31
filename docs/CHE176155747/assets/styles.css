@@ -80,7 +80,7 @@ h2 { max-width: 13ch; margin-bottom: 0; font-size: clamp(2.65rem, 5vw, 5.4rem); 
 .principle-list strong { color: var(--gold-light); }
 .principle-list span { color: #b8c0cc; }
 
-.perspective { background: var(--ivory); }
+.perspective { overflow: hidden; background: var(--ivory); }
 .perspective-grid { display: grid; grid-template-columns: minmax(300px, .86fr) minmax(0, 1.14fr); align-items: center; gap: 3rem 8rem; }
 .perspective-visual { position: relative; display: grid; place-items: center; width: min(100%, 31rem); aspect-ratio: 1; margin-inline: auto; border: 1px solid #cdb88f; border-radius: 50%; }
 .perspective-visual::before, .perspective-visual::after { position: absolute; width: 116%; height: 34%; border: 1px solid var(--gold); border-radius: 50%; content: ""; transform: rotate(-28deg); }
