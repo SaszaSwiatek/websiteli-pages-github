@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" role="img" aria-labelledby="title desc">
+  <title id="title">Abstrakte Architekturstudie</title>
+  <desc id="desc">Geometrische Flächen und Linien, die ein Gebäude und ein Grundstück symbolisieren.</desc>
+  <rect width="720" height="600" fill="#f1eee5"/>
+  <path d="M64 469 307 212l206 79-245 244Z" fill="#b9c7b2"/>
+  <path d="m307 212 216-111 134 150-144 40Z" fill="#c75d43"/>
+  <path d="m307 212 206 79v244L307 469Z" fill="#264237"/>
+  <path d="m64 469 243-257v257L64 535Z" fill="#d6ddcf"/>
+  <path d="M513 291 657 251v256L513 535Z" fill="#182127"/>
+  <path d="M353 239v193M393 254v198M434 270v203M475 285v207M557 284v209M598 273v209" stroke="#f1eee5" stroke-width="5" opacity=".85"/>
+  <path d="M64 535h593M64 469h243M307 469h350" stroke="#182127" stroke-width="3"/>
+  <circle cx="128" cy="123" r="34" fill="#c75d43"/>
+  <path d="M64 123h208M486 101h171" stroke="#264237" stroke-width="3"/>
+  <text x="64" y="584" fill="#264237" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3">NOVURA2 · ZÜRICH</text>
+</svg>

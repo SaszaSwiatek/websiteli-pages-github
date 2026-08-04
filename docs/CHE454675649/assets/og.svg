@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Novura2 AG</title>
+  <desc id="desc">Immobilien, Bauland und Projektentwicklung in Zürich.</desc>
+  <rect width="1200" height="630" fill="#264237"/>
+  <path d="M670 510 885 176l209 109-210 233Z" fill="#b9c7b2"/>
+  <path d="m885 176 165-82 92 158-48 33Z" fill="#c75d43"/>
+  <path d="m885 176 209 109v233L885 510Z" fill="#182127"/>
+  <path d="M934 198v251M979 220v258M1024 242v261" stroke="#f4f2ec" stroke-width="7" opacity=".8"/>
+  <text x="92" y="176" fill="#ffc2ac" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="5">ZÜRICH · IMMOBILIEN &amp; ENTWICKLUNG</text>
+  <text x="88" y="304" fill="#fffefa" font-family="Arial, sans-serif" font-size="88" font-weight="700">Novura2 AG</text>
+  <text x="92" y="386" fill="#e5e9de" font-family="Arial, sans-serif" font-size="42">Substanz. Entwicklung. Umsetzung.</text>
+</svg>
