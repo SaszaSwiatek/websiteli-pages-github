@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Abstrakte Wellness-Komposition von NM Longlife</title>
+  <desc id="desc">Eine Flasche, ein Blatt und eine Sonne in organischen Grün- und Sandtönen.</desc>
+  <rect width="1200" height="1200" fill="#c6efd9"/>
+  <circle cx="925" cy="250" r="184" fill="#efb856"/>
+  <path d="M-40 904C154 728 356 717 515 823c149 100 268 83 394-21 122-100 240-133 331-105v503H-40Z" fill="#aee7cf"/>
+  <path d="M1039 394c-135 1-258 58-337 147-85 96-114 226-82 344 133-1 256-57 336-147 86-96 115-225 83-344Z" fill="#0c5148"/>
+  <path d="M655 865c96-186 203-318 345-438" fill="none" stroke="#dff4e7" stroke-linecap="round" stroke-width="23"/>
+  <g transform="rotate(-8 446 661)">
+    <rect x="246" y="430" width="387" height="496" rx="67" fill="#fffdf8"/>
+    <rect x="315" y="352" width="250" height="103" rx="28" fill="#15342f"/>
+    <rect x="343" y="289" width="195" height="93" rx="23" fill="#efb856"/>
+    <rect x="282" y="586" width="316" height="219" rx="23" fill="#dff4e7"/>
+    <path d="M344 705c26-73 87-113 170-120-12 84-66 143-170 120Z" fill="#0c5148"/>
+    <path d="M376 730c36-53 72-88 123-119" fill="none" stroke="#fffdf8" stroke-linecap="round" stroke-width="10"/>
+    <text x="440" y="535" fill="#15342f" font-family="Arial, sans-serif" font-size="37" font-weight="700" text-anchor="middle">NM</text>
+    <text x="440" y="767" fill="#15342f" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="4" text-anchor="middle">LONGLIFE</text>
+  </g>
+  <path d="M118 208c94-1 173 29 236 90-91 26-170-4-236-90Z" fill="#db725d"/>
+  <circle cx="161" cy="218" r="17" fill="#fffdf8"/>
+</svg>

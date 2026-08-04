@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">NM Longlife GmbH</title>
+  <desc id="desc">Nahrungsergänzung, Wellness und Beratung</desc>
+  <rect width="1200" height="630" fill="#0c5148"/>
+  <circle cx="1010" cy="160" r="126" fill="#efb856"/>
+  <path d="M1180 168c-111 1-211 48-278 122-71 80-95 187-68 286 111-1 210-47 277-122 72-80 97-187 69-286Z" fill="#aee7cf"/>
+  <path d="M848 580c80-153 171-264 288-366" fill="none" stroke="#dff4e7" stroke-linecap="round" stroke-width="18"/>
+  <text x="84" y="157" fill="#aee7cf" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="5">NM LONGLIFE</text>
+  <text x="78" y="285" fill="#ffffff" font-family="Georgia, serif" font-size="90">Mehr Raum für</text>
+  <text x="78" y="383" fill="#ffffff" font-family="Georgia, serif" font-size="90">Ihr Wohlbefinden.</text>
+  <text x="84" y="490" fill="#dff4e7" font-family="Arial, sans-serif" font-size="32">Nahrungsergänzung · Wellness · Beratung</text>
+</svg>
