@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="KreativChaos by Mirjana Jaksic Jelic">
+  <rect width="1200" height="630" fill="#f7f2e9"/>
+  <circle cx="990" cy="146" r="260" fill="#ffbd59" opacity=".9"/>
+  <circle cx="1060" cy="460" r="220" fill="#8ed3c7" opacity=".83"/>
+  <path d="M690 0 1200 0 1200 630 870 630Z" fill="#172d47" opacity=".97"/>
+  <path d="M732 108c85 33 172 56 267 42" fill="none" stroke="#f7f2e9" stroke-width="10" stroke-linecap="round" opacity=".86"/>
+  <path d="M764 322c80-92 190-119 315-99" fill="none" stroke="#ffbd59" stroke-width="18" stroke-linecap="round"/>
+  <path d="M778 432c88-39 176-36 286 6" fill="none" stroke="#8ed3c7" stroke-width="14" stroke-linecap="round"/>
+  <text x="78" y="175" fill="#172d47" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="4">KREATIVCHAOS</text>
+  <text x="78" y="267" fill="#172d47" font-family="Georgia, serif" font-size="74">Ideen in Bewegung</text>
+  <text x="78" y="332" fill="#172d47" font-family="Arial, Helvetica, sans-serif" font-size="30">Wissen · KI · Zusammenarbeit</text>
+  <text x="78" y="527" fill="#50606e" font-family="Arial, Helvetica, sans-serif" font-size="26">by Mirjana Jaksic Jelic · Zürich</text>
+</svg>
