@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#123b4a"/>
+  <circle cx="1020" cy="110" r="250" fill="#f6b85a"/><circle cx="1070" cy="600" r="290" fill="#7db7aa" opacity=".75"/>
+  <path d="M688 143c112-79 222-65 322 26 65 60 119 70 181 38" fill="none" stroke="#fffdf8" stroke-width="18" stroke-linecap="round" opacity=".82"/>
+  <path d="M653 474c102-96 230-117 364-57" fill="none" stroke="#f6b85a" stroke-width="18" stroke-linecap="round"/>
+  <text x="90" y="190" fill="#f6b85a" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="5">HUMANSIDECHANGE</text>
+  <text x="90" y="305" fill="#fffdf8" font-family="Georgia, serif" font-size="86">Change that works</text>
+  <text x="90" y="405" fill="#fffdf8" font-family="Georgia, serif" font-size="86">with people.</text>
+  <text x="93" y="485" fill="#d0e5df" font-family="Arial, sans-serif" font-size="30">Transition leadership · Process excellence · Zurich</text>
+</svg>
