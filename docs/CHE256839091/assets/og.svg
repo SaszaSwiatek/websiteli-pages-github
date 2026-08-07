@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title">
+  <title id="title">Michael Hiltbrunner — Kunst, Archive, Ausstellungen</title>
+  <rect width="1200" height="630" fill="#1d2926"/>
+  <path d="M720 0h480v630H720z" fill="#d47d55"/>
+  <path d="M790 70h320v490H790z" fill="#f1e6d3"/>
+  <path d="M845 132h210v365H845z" fill="#23403a"/>
+  <circle cx="950" cy="255" r="75" fill="#e7c7a7"/>
+  <path d="M854 454c46-101 145-101 191 0v43H854z" fill="#b8c7b4"/>
+  <text x="85" y="250" fill="#f3ead8" font-family="Georgia, serif" font-size="76">Michael</text>
+  <text x="85" y="335" fill="#f3ead8" font-family="Georgia, serif" font-size="76">Hiltbrunner</text>
+  <text x="90" y="410" fill="#b8c7b4" font-family="Arial, sans-serif" font-size="27" letter-spacing="4">KUNST · ARCHIVE · AUSSTELLUNGEN</text>
+</svg>

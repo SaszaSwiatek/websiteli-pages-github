@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 720" role="img" aria-labelledby="title desc">
+  <title id="title">Abstrakte Ordnung von Archivblättern</title>
+  <desc id="desc">Warme Papierformen und dunkle Linien als abstrakte Anspielung auf Kunstarchive und Ausstellungen.</desc>
+  <rect width="800" height="720" fill="#d8d2c3"/>
+  <path d="M0 0h446v566H0z" fill="#ebe3d3"/>
+  <path d="M104 84h424v472H104z" fill="#23403a"/>
+  <path d="M161 141h311v356H161z" fill="#f4ecdc"/>
+  <path d="M215 191h203v256H215z" fill="#d47d55"/>
+  <path d="M215 319h203v128H215z" fill="#e6d4b5"/>
+  <path d="M541 96h191v185H541zM541 327h191v295H541z" fill="#1d2926"/>
+  <circle cx="636" cy="190" r="57" fill="#f1cbb0"/>
+  <path d="M576 436c45-82 113-82 159 0v120H576z" fill="#b8c7b4"/>
+  <path d="M34 594h500v42H34z" fill="#d47d55"/>
+  <path d="M104 84h424v472M161 141h311v356M215 191h203v256" fill="none" stroke="#1d2926" stroke-width="8"/>
+</svg>
